@@ -10,7 +10,7 @@ redirect_from:
 
 I am currently a fourth-year PhD student in the [Parallel Architecture, System, and Algorithm Lab](http://pasalabs.org) at University of California, Merced supervised by Prof. [Dong Li](https://faculty.ucmerced.edu/dong-li/). I graduated from school of computer science at Beijing institute of Technology in 2017, where I earned my Bachelor of Computer Engineering. 
 
-Research Interests
+Research
 ---- 
 My research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly 
 in developing runtime support on the heterogeneous memory system.
