@@ -18,7 +18,7 @@ I work on computer systems for large-scale applications such as cloud computing 
 
 News
 ======
-- 4/21: ZeRO-Offload is accepted to ATC'21. 
-- 3/21: WarpX-PM is accepted to ICS'21.  
+- 4/21: A paper is accepted to ATC'21. 
+- 3/21: A paper is accepted to ICS'21.  
 
 
