@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jie Ren's website"
+title                    : "Jie Ren's Website"
 title_separator          : "-"
 name                     : &name "Jie Ren"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jie Ren"
   avatar           : "IMG_2690.JPG"
-  bio              : "PhD student in Univerity of California, Merced"
+  bio              : "PhD student at University of California, Merced"
   location         : "CA, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
