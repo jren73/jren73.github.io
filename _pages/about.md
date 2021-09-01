@@ -13,7 +13,7 @@ I am currently a fourth-year PhD student in the [Parallel Architecture, System, 
 Research
 ---- 
 My research focuses on developing practical techniques to solve memory management issues in parallel computing systems, particularly 
-in developing runtime support on the heterogeneous memory systems.
+in developing runtime support on heterogeneous memory systems.
 
 The goal of my research is to improve the performance and resource efficiency of heterogeneous memory systems while making it easier for users to deploy and manage their applications. My research interests span operating systems, computer architecture, and their intersection with machine learning.
 
