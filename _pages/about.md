@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate in the [Parallel Architecture, System, and Algorithm Lab](http://pasalabs.org) at the University of California, Merced supervised by Prof. [Dong Li](https://faculty.ucmerced.edu/dong-li/). Before coming to UC Merced, I received my B.S. degree from Beijing Institute of Technology. Here is my [CV](https://drive.google.com/file/d/1YxQeg0cN1GlOL9VVRWsjCQ3FjQdwuVPx/view?usp=sharing).
+I am currently a PhD candidate in the [Parallel Architecture, System, and Algorithm Lab](http://pasalabs.org) at the University of California, Merced supervised by Prof. [Dong Li](https://faculty.ucmerced.edu/dong-li/). Before coming to UC Merced, I received my B.S. degree from Beijing Institute of Technology. 
 
 I will be an Assistant Professor of Computer Science at [the College of William & Mary](https://www.wm.edu/as/computerscience/) starting Fall 2022.
 
