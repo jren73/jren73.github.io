@@ -15,6 +15,6 @@ My research interests span **operating systems, computer architecture, and their
 
 News
 ---- 
-- **I am seeking Ph.D. students in my research group.. Please feel free to drop me an email at jren03@wm.edu if you are interested.**
+- **I am seeking Ph.D. students in my research group. Please feel free to drop me an email at jren03@wm.edu if you are interested.**
 
 
